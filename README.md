@@ -14,5 +14,10 @@ A simple Android application for creating, updating, and managing notes. This ap
 - Android SDK 21 or higher
 
 ## Screenshots
-<!-- Add screenshots of your app here -->
-![360_F_320352822_Du18cSR0okuxVfYKgQIYYU794iqjQRAU-removebg-preview](https://github.com/Sabarishkris/Notes-App/assets/159115255/66494fd5-5404-4971-a08f-7260a042b2a0)
+Display notes
+![write1](https://github.com/Sabarishkris/Notes-App/assets/159115255/6fd46dac-c60c-4d53-be0f-088d7f8c83d7)
+
+
+Write / Update new notes 
+
+![write1](https://github.com/Sabarishkris/Notes-App/assets/159115255/4a465ce2-a910-4a26-a22c-ab54636c0e46)
